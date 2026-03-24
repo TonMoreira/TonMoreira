@@ -1,13 +1,17 @@
 # Olá, me chamo Ewerton! 👋  
 ## Bem-vindo ao meu perfil no GitHub! 🚀  
 
-Sou apaixonado por tecnologia e atualmente trabalho como **Analista de Suporte no Mapia**. Atuo ajudando clientes a usarem nosso sistema da melhor forma, com treinamentos, suporte técnico e desenvolvimento de melhorias para facilitar o dia a dia das empresas.  
+Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente atuo como **Analista de Suporte no Mapia**.  
+Estou em transição para a área de **Quality Assurance (QA)**, com foco em garantir a qualidade de software através de testes, identificação de falhas e melhoria contínua.  
+
+Minha experiência com suporte me proporciona uma visão prática do usuário final, ajudando a encontrar problemas reais e melhorar a experiência dos sistemas.   
 
 ---
 
 ### 🔭 O que eu faço atualmente  
-- **Trabalho:** Analista de Suporte no Mapia.  
-- **Estudo:** Estou no último período do curso de Análise e Desenvolvimento de Sistemas. 
+- **Trabalho:** Analista de Suporte no Mapia 
+- **Foco atual:** Transição para QA (Qualidade de Software)  
+- **Objetivo:** Atuar com testes e garantir entregas com alta qualidade  
 
 ---
 
@@ -19,20 +23,40 @@ Sou apaixonado por tecnologia e atualmente trabalho como **Analista de Suporte n
 
 ---
 
+### 🧪 Conhecimentos em QA  
+- Testes manuais (funcionais e exploratórios)  
+- Identificação, registro e acompanhamento de bugs  
+- Validação de regras de negócio  
+- Criação de cenários e casos de teste  
+- Noções de testes de API
+- Automação de testes (Puppeteer)
+
+---
+
 ### 🌱 O que estou aprendendo  
-- Desenvolvimento de sistemas completos com interfaces amigáveis.  
-- Práticas de suporte e atendimento ao cliente, otimizando processos e soluções.  
-- Boas práticas em versionamento de código usando Git e GitHub.
+- Automação de testes (Cypress)  
+- Testes de API com Postman  
+- Boas práticas de QA e qualidade de software  
+- Versionamento com Git e GitHub  
 
 ## Ferramentas e Tecnologias
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/> <img loading="lazy" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/> <img loading="lazy" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/> <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white"/>
 
 ---
 
 ### 💼 Experiência  
-- 2 anos e 1 mês no suporte ao SGP, com foco em atendimento e melhorias no sistema.  
-- Soldado na Força Aérea Brasileira (FAB): Experiência em disciplina, trabalho em equipe e execução de atividades operacionais.
-- Analista de Suporte no Mapia: Atualmente, trabalhando com atendimento a clientes, treinamentos, elaboração de relatórios e sugestões para otimizar o uso do sistema.
+- **Analista de Suporte no Mapia - Atual**  
+  - Atendimento a clientes e resolução de problemas  
+  - Identificação de falhas no sistema   
+  - Treinamentos e melhoria na experiência do usuário
+  - Testes práticos em funcionalidades antes de validação (Estou em migração interna para função de QA)
+
+- **Suporte ao SGP (2 anos e 1 mês)**  
+  - Atuação direta com usuários e análise de problemas reais  
+  - Sugestões de melhorias no sistema  
+
+- **Força Aérea Brasileira (FAB)**  
+  - Disciplina, organização e trabalho em equipe  
 
 ---
 
@@ -42,8 +66,8 @@ Resido em **Parnamirim, RN**.
 ---
 
 ### ⚡ Curiosidades  
-- Sou daqueles que levantam peso na academia. 🏋️‍♂️  
-- Botafoguense de coração, vivendo intensamente cada "emoção". 🔥🏆
+- Líder na pequeno grupo Igreja
+- Botafoguense  
 
 ---
 
@@ -53,7 +77,3 @@ Resido em **Parnamirim, RN**.
 <a href = "mailto:tonmoreira7@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ewerton-moreira-04933515b" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div> 
-
----
-
-💡 Sinta-se à vontade para explorar meus repositórios e colaborar comigo. Vamos construir soluções incríveis juntos! 🚀
