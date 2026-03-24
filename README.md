@@ -67,7 +67,7 @@ Resido em **Parnamirim, RN**.
 ---
 
 ### ⚡ Curiosidades  
-- Líder na pequeno grupo Igreja
+- Líder de um pequeno grupo na Igreja
 - Botafoguense  
 
 ---
