@@ -15,14 +15,6 @@ Minha experiência com suporte me proporciona uma visão prática do usuário fi
 
 ---
 
-<div>
-<a href="https://github.com/TonMoreira">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonMoreira&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=TonMoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
----
-
 ### 🧪 Conhecimentos em QA  
 - Testes manuais (funcionais e exploratórios)  
 - Identificação, registro e acompanhamento de bugs  
